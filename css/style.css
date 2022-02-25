@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css2?family=Abel&family=Cairo:wght@300&family=Lobster+Two&family=Righteous&display=swap);
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css"); 
+@import url("components/meeting.css"); 
+
+body{
+	font-family: 'Lobster Two', cursive;
+	font-size: 18px;
+}
+h1, h2, h3{
+	font-family: 'Abel', sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
